@@ -3,7 +3,7 @@
 
 | Название проекта |
 | :--------------------: |
-| [Исследование рынка игр в разных регионах](https://github.com/EvgeniaPopovkina/practicum-data/blob/main/Isledovaniye_komputernyh_igr_dlya_strimchik.ipynb)|
-| [Анализ поведения пользователя мобильного приложения](https://github.com/EvgeniaPopovkina/practicum-data/blob/main/Analis_povedeniya_polzovateley_mobilnogo_prilojeniya.ipynb) | 
+| [Исследование рынка игр в разных регионах](https://github.com/EvgeniaPopovkina/practicum-data/blob/main/Isledovaniye%20komputernyh%20igr.ipynb)|
+| [Анализ поведения пользователя мобильного приложения](https://github.com/EvgeniaPopovkina/practicum-data/blob/main/Analiz%20povedeniya%20polzovateley%20mob%20prilozhenia.ipynb) | 
 | [Анализ рекламных источников для игры с дашбордом и презентацией](https://github.com/EvgeniaPopovkina/practicum-data/blob/main/Analiz_reklamnyh_istochnikov_dlya_igry.ipynb) | 
-| [Проверка A/B теста ](https://github.com/EvgeniaPopovkina/practicum-data/blob/main/proverka_a:b_testa.ipynb) | 
+| [Проверка A/B теста ](https://github.com/EvgeniaPopovkina/practicum-data/blob/main/Proverka%20A:B%20test.ipynb) | 
